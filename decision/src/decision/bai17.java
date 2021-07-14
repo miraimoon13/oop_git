@@ -1,5 +1,7 @@
-//mật mã case mã hóa 1 ký tự
-package oop;
+/*
+ngày kế tiếp
+ */
+package decision;
 
 import java.util.Scanner;
 
@@ -7,9 +9,13 @@ import java.util.Scanner;
  *
  * @author VU NGUYET
  */
-public class bai19 {
+public class bai17 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
+        int d = sc.nextInt();
+        int m = sc.nextInt();
+        int y = sc.nextInt();
+        
         
     }
 }
